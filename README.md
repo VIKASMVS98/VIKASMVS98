@@ -37,7 +37,9 @@
 
 ### 🐍 Contribution Snake:
 <p align="center">
-<img src="https://github.com/VIKASMSV98/VIKASMSV98/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=VIKASMSV98&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASMSV98&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
